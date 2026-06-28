@@ -1,0 +1,10 @@
+env_publicapi/
+__pycache__/
+*.pyc
+.pytest_cache/
+logs/
+data/raw/
+data/processed/
+*.db
+.vscode/
+.idea/
